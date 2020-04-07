@@ -1,7 +1,7 @@
 {
   "name": "redux-react-clone",
   "version": "1.0.0",
-  "description": "A infinite scroller pager component for React",
+  "description": "redux-react clone for learning",
   "author": "JasonHeylon",
   "license": "MIT",
   "repository": "JasonHeylon/redux-react-clone",
@@ -24,7 +24,8 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+    "redux": "^4.0.5"
   },
   "devDependencies": {
     "@types/jest": "^25.1.4",

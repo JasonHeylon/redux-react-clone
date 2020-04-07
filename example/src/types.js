@@ -1,0 +1,2 @@
+export const ADD_TODO_ACTION_TYPE = "ADD_TODO";
+export const REMOVE_TODO_ACTION_TYPE = "REMOVE_TODO";

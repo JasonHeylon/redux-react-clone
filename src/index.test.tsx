@@ -1,7 +1,7 @@
-import { connect } from ".";
+import { Provider } from ".";
 
 describe("Redux-react", () => {
   it("is truthy", () => {
-    expect(connect).toBeTruthy();
+    expect(Provider).toBeTruthy();
   });
 });
